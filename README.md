@@ -11,7 +11,7 @@ To run the application locally and connect it to your Firebase project, follow t
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/your-repository.git
+   [git clone https://github.com/your-username/your-repository.git](https://github.com/Ab-Aayan/retriveData_using_firebase.git)
    ```
 
 2. Set up your Flutter development environment. If you haven't already, refer to the official Flutter documentation for installation instructions: [Flutter - Get Started](https://flutter.dev/docs/get-started)
@@ -74,4 +74,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 - [Firebase Documentation](https://firebase.google.com/docs) - Official documentation for Firebase services.
 
-- [OpenAI GPT-3](https://www.openai.com/research/gpt-3) - Inspiration and guidance from the GPT-3 language model.
